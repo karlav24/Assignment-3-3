@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 3.3</string>
+    <string name="cold_msg">I wish it were colder.</string>
+    <string name="warm_msg">I wish it were warmer.</string>
+</resources>
